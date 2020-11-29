@@ -6,7 +6,9 @@ namespace VsGitTestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int i = 42, j = 77;
+
+            Console.WriteLine(i + j);
         }
     }
 }
