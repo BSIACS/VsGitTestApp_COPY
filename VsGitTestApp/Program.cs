@@ -8,7 +8,7 @@ namespace VsGitTestApp
         {
             int i = 42, j = 77;
 
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(i + j);
         }
     }
 }
